@@ -1,24 +1,7 @@
-# README
+## Junior Exam Ruby on Rails
+  - connect to db manager and input the database credentials, name and port to `database.yml` _(make sure that mysql server or any rdbms service is running)_
+  - run command `rails db:migrate`
+  - run command `rails server`
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+## Notes
+This API is intended for testing purposes only.
